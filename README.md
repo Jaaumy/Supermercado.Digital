@@ -82,16 +82,3 @@ O projeto está organizado da seguinte forma:
 *   **Encapsulamento:** Atributos das classes são majoritariamente privados ou protegidos, com acesso controlado por métodos públicos (getters/setters). A lógica de manipulação de estoque, por exemplo, está encapsulada dentro da própria classe `Produto`.
 *   **Polimorfismo:** Principalmente através da sobrescrita do método `toString()` nas classes de produto para fornecer representações textuais específicas de cada categoria.
 
-## Autores e Contribuições
-
-Este projeto foi desenvolvido como um esforço colaborativo (ou individual, ajuste conforme o caso).
-
-**Contribuições de Jaaumy:**
-*   Desenvolvimento e lógica do sistema de **`MenuEstoque`**.
-*   Criação e implementação das classes de produto **`Frios.java`** e **`Hortifruti.java`**, incluindo seus atributos específicos e herança da classe `Produto`.
-*   Participação na lógica do **`Carrinho.java`**, especialmente na integração das funcionalidades de verificação e baixa de estoque durante a adição de itens e finalização da compra.
-
-*(Se for um projeto individual, você pode simplificar esta seção para "Autor: Jaaumy")*
-
----
-Sinta-se à vontade para ajustar qualquer seção, especialmente a de "Autores e Contribuições", para refletir com precisão a natureza do seu projeto e equipe!
