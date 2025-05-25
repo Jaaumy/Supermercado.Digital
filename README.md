@@ -1,8 +1,5 @@
 # Supermercado Digital
 
-**Autor Principal/Colaborador:** Jaaumy
-**Data da Última Atualização Significativa (Conforme Conversa):** 2025-05-25
-
 ## Descrição do Projeto
 
 O "Supermercado Digital" é uma aplicação de console desenvolvida em Java que simula as operações básicas de um sistema de supermercado. O projeto foi criado com o objetivo de aplicar e demonstrar conceitos fundamentais de Programação Orientada a Objetos (POO), como herança, encapsulamento e polimorfismo.
